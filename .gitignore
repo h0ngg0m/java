@@ -28,3 +28,4 @@ bin/
 ### Mac OS ###
 .idea
 .DS_Store
+*.iml
